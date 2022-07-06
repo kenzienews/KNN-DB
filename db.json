@@ -31,7 +31,9 @@
       "urlToImage": "https://s2.glbimg.com/c6BZPgFXO1_W6EJwH2GIPxs3Ag8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/z/0/sDKKB2Q9ir0grLPc3fGA/fta20220618131.jpg",
       "publishedAt": "2022-07-05T15:28:12Z",
       "content": "Novo relatório divulgado pela OCDE (Organização para a Cooperação e Desenvolvimento Econômico) mostra que a inflação do Brasil segue entre as maiores do mundo e bem acima da média das grandes economi… [+2191 chars]",
-      "id": 1
+      "id": 1,
+      "likes":0,
+      "reports":0
     },
     {
       "source": {
@@ -44,7 +46,9 @@
       "urlToImage": "https://editalconcursosbrasil.com.br/wp-content/uploads/2022/04/WhatsApp-3-1.jpg",
       "publishedAt": "2022-07-05T15:59:00Z",
       "content": "Você gostaria de poder mudar a cor do WhatsApp de um jeito prático e bem simples? Saiba que isso pode ser feito sem colocar suas informações ou o próprio celular em algum tipo de risco. Vamos entende… [+2134 chars]",
-      "id": 2
+      "id": 2,
+      "likes":0,
+      "reports":0
     },
     {
       "source": {
@@ -57,7 +61,9 @@
       "urlToImage": "https://s2.glbimg.com/TxLXAcUoQH5eo-0kKPWcJcLeLzc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/7/h/C23LnQQBOXN2kUWn4hsw/mario-frias.jpg",
       "publishedAt": "2022-07-05T14:41:15Z",
       "content": "O ex-secretário especial de Cultura do governo Jair Bolsonaro, Mario Frias, foi internado na noite de segunda-feira (4), com quadro de \"infarto agudo do miocárdio\". Segundo boletim médico divulgado n… [+789 chars]",
-      "id": 3
+      "id": 3,
+      "likes":0,
+      "reports":0
     }
   ],
   "comments": [
@@ -81,7 +87,6 @@
     }
   ],
   "reported":[
-  
+    
   ]
-
 }
