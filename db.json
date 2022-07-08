@@ -74,16 +74,17 @@
     {
       "source": {
         "name": "Editalconcursosbrasil.com.br",
-        "category":"tecnologia"
+        "category":"tecnologia",
+        "authorId": 1,
+        "author":"contentCreator"
       },
-      "authorId": 2,
       "title": "Dá para mudar a cor do WhatsApp? Veja se truques realmente funcionam - Edital Concursos Brasil",
       "description": "Entenda se é possível ou permitido mudar a cor do WhatsApp no seu celular e quais são as possibilidades para que isso aconteça. Evite se expor a algum risco desnecessário",
       "url": "https://editalconcursosbrasil.com.br/noticias/2022/07/da-para-mudar-a-cor-do-whatsapp-descubra-se-truques-realmente-funcionam/",
       "urlToImage": "https://editalconcursosbrasil.com.br/wp-content/uploads/2022/04/WhatsApp-3-1.jpg",
       "publishedAt": "2022-07-05T15:59:00Z",
       "content": "Você gostaria de poder mudar a cor do WhatsApp de um jeito prático e bem simples? Saiba que isso pode ser feito sem colocar suas informações ou o próprio celular em algum tipo de risco. Vamos entende… [+2134 chars]",
-      "id": 2,
+      "id": 1,
       "likes":50135,
       "reports":0
     }
