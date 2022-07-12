@@ -16,13 +16,6 @@
           "state": "são paulo"
         }
       },
-      "favorites":[
-        "tecnologia",
-        "saude",
-        "esporte",
-        "entretenimento",
-        "gastronomia"
-      ],
       "id": 1
     },
     {
@@ -41,10 +34,6 @@
           "state": "são paulo"
         }
       },
-      "favorites":[
-        "tecnologia",
-        "saude"
-      ],
       "id": 2
     },
     {
@@ -63,53 +52,81 @@
           "state": "são paulo"
         }
       },
-      "favorites":[
-        "entretenimento",
-        "gastronomia"
-      ],
       "id": 3
     }
   ],
   "articles": [
     {
-      "source": {
-        "name": "Editalconcursosbrasil.com.br",
-        "category":"tecnologia",
-        "authorId": 1,
-        "author":"contentCreator"
-      },
+      "name": "Editalconcursosbrasil.com.br",
+      "category": "tecnologia",
+      "authorId": 1,
+      "authorImg": "https://s2.glbimg.com/jsaPuF7nO23vRxQkuJ_V3WgouKA=/e.glbimg.com/og/ed/f/original/2014/06/10/461777879.jpg",
+      "author": "juninho",
       "title": "Dá para mudar a cor do WhatsApp? Veja se truques realmente funcionam - Edital Concursos Brasil",
       "description": "Entenda se é possível ou permitido mudar a cor do WhatsApp no seu celular e quais são as possibilidades para que isso aconteça. Evite se expor a algum risco desnecessário",
       "url": "https://editalconcursosbrasil.com.br/noticias/2022/07/da-para-mudar-a-cor-do-whatsapp-descubra-se-truques-realmente-funcionam/",
       "urlToImage": "https://editalconcursosbrasil.com.br/wp-content/uploads/2022/04/WhatsApp-3-1.jpg",
-      "publishedAt": "2022-07-05T15:59:00Z",
-      "content": "Você gostaria de poder mudar a cor do WhatsApp de um jeito prático e bem simples? Saiba que isso pode ser feito sem colocar suas informações ou o próprio celular em algum tipo de risco. Vamos entende… [+2134 chars]",
+      "content": "Você gostaria de poder mudar a cor do WhatsApp de um jeito prático e bem simples? Saiba que isso pode ser feito sem colocar suas informações ou o próprio celular em algum tipo de risco. Vamos entender mais sobre o assunto a partir de agora. Veja também: Alô timidez! Nova função no WhatsApp vai alegrar pessoas discretas. Cuidado com apps para mudar a cor do WhatsApp. Muitas pessoas gostam de deixar o aparelho celular e seus aplicativos com um toque a mais de personalidade. Isso quer dizer, que esses usuários buscam ferramentas para mudar a cor, a fonte e o aspecto dos programas instalados no dispositivo. Para conseguir esses efeitos e mudar a cor do WhatsApp, alguns usuários acabam instalando programas suspeitos em seus dispositivos. No entanto, essa prática pode colocar seus dados em risco e você pode acabar se dando mal.",
       "id": 1,
-      "likes":50135,
-      "reports":0
-    }
+      "likes": 3,
+      "reports": 0
+    },
+    {
+      "name": "Globo",
+			"category":"tecnologia",
+			"authorId": 1,
+      "authorImg": "https://s2.glbimg.com/jsaPuF7nO23vRxQkuJ_V3WgouKA=/e.glbimg.com/og/ed/f/original/2014/06/10/461777879.jpg",
+      "author": "juninho",
+			"title": "Euro alcança paridade com o dólar pela primeira vez desde 2002 - Globo",
+			"description": "Entre os motivos está o risco para a economia da União Europeia de um corte de abastecimento de gás russo.",
+			"url": "https://g1.globo.com/economia/noticia/2022/07/12/dolar-alcanca-paridade-com-o-dolar-pela-primeira-vez-desde-2002.ghtml",
+			"urlToImage": "https://s2.glbimg.com/QsfPkHnbzKd_Y3l3WvzwNpgZPYw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/u/1/Df3pAVRzuEn52mmUcuzw/2016-12-27t112517z-509408227-rc1c688bf1b0-rtrmadp-3-egypt-cenbank.jpg",
+			"content": "O euro alcançou pela primeira vez a paridade com o dólar nesta terça-feira (12), desde o início da circulação, há duas décadas, da moeda única europeia, segundo dados da Bloomberg. A desvalorização da moeda europeia frente à norte-americana vem sendo acentuada por conta de preocupações de que uma crise de energia levará a Europa a uma recessão. Ao mesmo tempo, a moeda dos EUA segue valorizando pelas expectativas de que o Federal Reserve (BC dos EUA) aumentará as taxas de juros mais rapidamente que o esperado. Os operadores do mercado temem uma grande crise energética na União Europeia devido à interrupção do fluxo de gás russo que chega pelo gasoduto Nord Stream 1, atualmente em manutenção. A tensão alimenta os temores de uma recessão na Europa. Com isso, os investidores privilegiam a moeda norte-americana, que chegou a ser negociada a um dólar por euro nesta terça, na maior cotação diante da divisa europeia desde 2002.",
+      "id": 2,
+      "likes": 3,
+      "reports": 0
+		},
+    {
+      "name": "Somosfanaticos.fans",
+      "category":"esporte",
+			"authorId": 1,
+      "authorImg": "https://s2.glbimg.com/jsaPuF7nO23vRxQkuJ_V3WgouKA=/e.glbimg.com/og/ed/f/original/2014/06/10/461777879.jpg",
+			"author": "juninho",
+			"title": "URGENTE: Campeonato Brasileiro pode ser paralisado - Somos Fanáticos Brasil",
+			"description": "Associação de Árbitros quer fazer uma greve e paralisar o Campeonato Brasileiro",
+			"url": "https://somosfanaticos.fans/br/futebolbrasileiro/URGENTE-Campeonato-Brasileiro-pode-ser-paralisado-20220712-0001.html",
+			"urlToImage": "https://cms.somosfanaticos.com/__export/1657623761682/sites/fanaticos/img/2022/07/12/trofxu_campeonato_brasileiro_2021.jpg_242310155.jpg",
+			"content": "Os times só voltam a campo pelo Campeonato Brasileiro no próximo final de semana. No entanto, pode ser que a rodada 17 não ocorra na data prevista. Isso porque a Associação Nacional dos Árbitros de Futebol (Anaf) quer uma greve da categoria e, por isso, o Brasileirão seria paralisado. De acordo com o presidente da Anaf, Salmo Valentim, a Confederação Brasileira de Futebol cortou o repasse à Associação do dinheiro referente aos patrocínios exibidos nos uniformes da arbitragem. Com isso, alguns benefícios que a Anaf paga aos árbitros tiveram que ser cortados.Recebíamos R$ 30 mil mensais, dos R$ 10 milhões que a CBF recebe dos patrocinadores que expõem suas marcas nas camisas da arbitragem. Esse recurso era utilizado para a manutenção da entidade, que o utiliza em benefício dos árbitros aplicando seguro lesão, para quem se contundir, transporte terrestre, auxílio médico, jurídico… uma série de benefícios que teremos de cortar - explicou Valentim ao Lance.",
+      "id": 3,
+      "likes": 3,
+      "reports": 0
+		}
   ],
   "comments": [
     {
+      "id": 1,
       "ownerId": 2,
-      "articleId": 2,
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce accumsan.",
-      "id": 1
+      "articleId": 1,
+      "content": "Nossa não sabia desses perigos dos aplicativos de trocar a cor do Zap",
+      "userImg": "https://s2.glbimg.com/jsaPuF7nO23vRxQkuJ_V3WgouKA=/e.glbimg.com/og/ed/f/original/2014/06/10/461777879.jpg",
+      "username": "Juninho"
     },
     {
+      "id": 2,
       "ownerId": 2,
       "articleId": 2,
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce accumsan.",
-      "id": 2
+      "content": "O dolar esta alto demais, iamgina o euro, onde ja se viu empregada domesticando ir pra disney",
+      "userImg": "https://s2.glbimg.com/jsaPuF7nO23vRxQkuJ_V3WgouKA=/e.glbimg.com/og/ed/f/original/2014/06/10/461777879.jpg",
+      "username": "Juninho"
     },
     {
+      "id": 3,
       "ownerId": 2,
-      "articleId": 2,
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce accumsan.",
-      "id": 3
+      "articleId": 3,
+      "content": "O lance ja ta ruim faz muito tempo, ainda tem gente que torce pra ele!",
+      "userImg": "https://s2.glbimg.com/jsaPuF7nO23vRxQkuJ_V3WgouKA=/e.glbimg.com/og/ed/f/original/2014/06/10/461777879.jpg",
+      "username": "Juninho"
     }
   ],
-  "reported":[
-    
-  ]
+  "reported": []
 }
