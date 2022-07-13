@@ -3,17 +3,17 @@
     {
       "email": "contentCreator@gmail.com",
       "password": "$2a$10$dYfRUT8oMVdJ0S5QpQWLHeUpyni8rSa8LwdKy6WyXo8zI/BhxEAaa",
-      "name": "contentCreator",
-      "avatar": "https://cdn.discordapp.com/attachments/886307601548214355/993915130905636925/foto_de_macaco_para_perfil.jpg",
+      "name": "Raony ",
+      "avatar": "https://ca.slack-edge.com/TQZR39SET-U02V6186UF5-75b8f3ef7364-512",
       "type": "content creator",
       "data": {
-        "phone": "(xx) x xxxx-xxxx",
+        "phone": "(85) 9 9876-2314",
         "adress": {
-          "cep": "12345678",
-          "street": "limão",
-          "district": "limoeira",
-          "city": "carapicuiba",
-          "state": "são paulo"
+          "cep": "60543-535",
+          "street": "barão de studart",
+          "district": "aldeota",
+          "city": "fortaleza",
+          "state": "CE"
         }
       },
       "id": 1
@@ -21,17 +21,17 @@
     {
       "email": "company@gmail.com",
       "password": "$2a$10$dYfRUT8oMVdJ0S5QpQWLHeUpyni8rSa8LwdKy6WyXo8zI/BhxEAaa",
-      "name": "company",
-      "avatar": "https://cdn.discordapp.com/attachments/886307601548214355/993915130905636925/foto_de_macaco_para_perfil.jpg",
+      "name": "kenzie news network",
+      "avatar": "https://files.slack.com/files-pri/TQZR39SET-F03PCD61732/logo__4_.png",
       "type": "company",
       "data": {
-        "phone": "(xx) x xxxx-xxxx",
+        "phone": "(11) 9 4321-5678",
         "adress": {
-          "cep": "12345678",
-          "street": "limão",
-          "district": "limoeira",
-          "city": "carapicuiba",
-          "state": "são paulo"
+          "cep": "50643-535",
+          "street": "rio branco",
+          "district": "costinha",
+          "city": "jacarepagua",
+          "state": "RJ"
         }
       },
       "id": 2
@@ -39,17 +39,17 @@
     {
       "email": "reader@gmail.com",
       "password": "$2a$10$dYfRUT8oMVdJ0S5QpQWLHeUpyni8rSa8LwdKy6WyXo8zI/BhxEAaa",
-      "name": "reader",
-      "avatar": "https://cdn.discordapp.com/attachments/886307601548214355/993915130905636925/foto_de_macaco_para_perfil.jpg",
+      "name": "Bruno tiberio",
+      "avatar": "https://ca.slack-edge.com/TQZR39SET-U02VCTU9T0B-36a257669ad7-512",
       "type": "reader",
       "data": {
-        "phone": "(xx) x xxxx-xxxx",
+        "phone": "(12) 9 4567-1238",
         "adress": {
-          "cep": "12345678",
-          "street": "limão",
-          "district": "limoeira",
-          "city": "carapicuiba",
-          "state": "são paulo"
+          "cep": "50643-117",
+          "street": "consolação",
+          "district": "caucaia",
+          "city": "redenção",
+          "state": "MG"
         }
       },
       "id": 3
@@ -105,27 +105,27 @@
   "comments": [
     {
       "id": 1,
-      "ownerId": 2,
+      "ownerId": 3,
       "articleId": 1,
-      "content": "Nossa não sabia desses perigos dos aplicativos de trocar a cor do Zap",
+      "content": "Nossa não sabia desses perigos dos aplicativos de trocar a cor do Zap.",
       "userImg": "https://s2.glbimg.com/jsaPuF7nO23vRxQkuJ_V3WgouKA=/e.glbimg.com/og/ed/f/original/2014/06/10/461777879.jpg",
-      "username": "Juninho"
+      "username": "Bruno tiberio"
     },
     {
       "id": 2,
-      "ownerId": 2,
+      "ownerId": 3,
       "articleId": 2,
-      "content": "O dolar esta alto demais, iamgina o euro, onde ja se viu empregada domesticando ir pra disney",
+      "content": "O dolar esta alto demais, imagina o euro.",
       "userImg": "https://s2.glbimg.com/jsaPuF7nO23vRxQkuJ_V3WgouKA=/e.glbimg.com/og/ed/f/original/2014/06/10/461777879.jpg",
-      "username": "Juninho"
+      "username": "Bruno tiberio"
     },
     {
       "id": 3,
-      "ownerId": 2,
+      "ownerId": 3,
       "articleId": 3,
       "content": "O lance ja ta ruim faz muito tempo, ainda tem gente que torce pra ele!",
       "userImg": "https://s2.glbimg.com/jsaPuF7nO23vRxQkuJ_V3WgouKA=/e.glbimg.com/og/ed/f/original/2014/06/10/461777879.jpg",
-      "username": "Juninho"
+      "username": "Bruno tiberio"
     }
   ],
   "reported": []
